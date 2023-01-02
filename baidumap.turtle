@@ -1,0 +1,1571 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns="http://pkg.org/ont/source/baidumap#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Ontology"/>
+	<owl:versionIRI rdf:resource="http://pkg.org/ont/source/baidumap/1.0.0"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap#Type">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdfs:label xml:lang="en">Type</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#01000000">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#8001"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#01020000">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#8003"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03050083">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#7002"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03060000">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#7001"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#7004"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03060100">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#7003"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03090161">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#21005"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03090163">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#21001"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03090165">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#21002"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03090166">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#21003"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#21004"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03090168">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#21006"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03090169">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#21007"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03100191">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#1005"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#1006"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03100192">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#1007"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03100195">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#1001"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03100196">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#1002"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03100198">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#1003"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03110199">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#23001"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03110200">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#6005"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03110201">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#6008"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03110202">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#6003"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03110203">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#6002"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#6009"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03110204">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#6007"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03110207">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#6006"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03110208">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#6001"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03110253">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#6004"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03120000">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#13009"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03120259">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#13005"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03120260">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#13007"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03120261">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#13004"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03120262">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#13014"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03120263">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#13001"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03120264">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#13011"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03120266">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#13012"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03120267">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#13008"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03120268">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#8002"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03120270">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#13003"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03120271">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#12001"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#12002"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#12003"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03120275">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#14001"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#14002"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#14003"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03120276">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#14004"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03120277">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#13016"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03120278">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#10002"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03120279">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#10004"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03120280">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#10005"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03120281">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#10003"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03120283">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#2001"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#2002"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#2003"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#2004"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#2005"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#2006"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03120284">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#13006"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03120285">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#13015"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03120286">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#10001"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03120363">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#13002"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03130394">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#22002"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#22007"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03130396">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#22003"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03130397">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#22005"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03130399">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#22001"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03130401">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#22004"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03130402">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#22006"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03130404">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#22008"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03140435">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#9004"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#9008"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#9009"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#9010"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#9011"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03140436">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#9003"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#9006"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#9012"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03140437">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#4002"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03140439">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#9001"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03140441">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#9002"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03140449">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#11001"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03140451">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#9007"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03140452">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#9005"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03150462">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#11011"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03150463">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#11007"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03150466">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#11010"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03150467">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#4005"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03150468">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#11009"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03150469">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#4003"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03150470">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#4004"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03150472">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#20004"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03150474">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#20001"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03150476">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#20003"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03150479">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#1004"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03150480">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#20008"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03150483">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#20002"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03150484">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#20009"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03150485">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#20007"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03150487">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#20005"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03150488">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#11006"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03150489">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#4001"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03150490">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#4006"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03150516">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#11002"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03160536">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#20010"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03160537">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#20006"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03160538">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#11008"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03160539">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#11003"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#11005"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03170552">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#11004"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03180569">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#13013"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#03180573">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#13010"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#04190693">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#16001"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#04200696">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#15009"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#04200715">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#15012"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#04200728">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#16002"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#04200729">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#15004"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#04200756">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#15003"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#15011"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#04200759">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#15005"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#04200760">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#15010"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#04200761">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#15013"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#04200764">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#15006"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#04200772">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#15008"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#04200845">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#19007"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#04200846">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#19003"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#19004"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#19005"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#19006"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#04200884">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#15001"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#04200890">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#19002"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#04200903">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#19001"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#04200945">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#18001"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#18002"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#18003"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#18004"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#18005"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#18006"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#18007"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#18008"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#05210948">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#15002"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#15007"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#05240000">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#17002"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#05241175">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#17003"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#05241176">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#17001"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#06290000">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#8004"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#08340000">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#3002"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#09361473">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#3001"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#09361478">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#3003"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#10381540">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#23004"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#10381541">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#23002"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#10381542">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#23003"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/core/type#10381544">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<owl:sameAs rdf:resource="http://pkg.org/ont/source/baidumap/type#5001"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#10001">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">金融:银行</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#10002">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">金融:投资理财</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#10003">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">金融:atm</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#10004">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">金融:典当行</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#10005">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">金融:信用社</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#1001">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">美食:茶座</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#1002">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">美食:咖啡厅</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#1003">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">美食:蛋糕甜品店</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#1004">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">美食:酒吧</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#1005">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">美食:外国餐厅</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#1006">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">美食:中餐厅</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#1007">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">美食:小吃快餐店</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#11001">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">旅游景点:博物馆</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#11002">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">旅游景点:游乐园</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#11003">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">旅游景点:风景区</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#11004">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">旅游景点:教堂</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#11005">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">旅游景点:景点</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#11006">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">旅游景点:海滨浴场</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#11007">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">旅游景点:动物园</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#11008">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">旅游景点:文物古迹</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#11009">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">旅游景点:水族馆</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#11010">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">旅游景点:植物园</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#11011">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">旅游景点:公园</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#12001">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">酒店:快捷酒店</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#12002">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">酒店:星级酒店</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#12003">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">酒店:公寓式酒店</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#13001">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">生活服务:洗衣店</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#13002">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">生活服务:物流公司</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#13003">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">生活服务:邮局</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#13004">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">生活服务:售票处</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#13005">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">生活服务:通讯营业厅</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#13006">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">生活服务:家政服务</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#13007">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">生活服务:彩票销售点</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#13008">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">生活服务:照相馆</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#13009">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">生活服务:公用事业</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#13010">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">生活服务:公共厕所</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#13011">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">生活服务:图文快印店</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#13012">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">生活服务:报刊亭</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#13013">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">生活服务:殡葬服务</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#13014">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">生活服务:房产中介机构</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#13015">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">生活服务:维修点</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#13016">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">生活服务:宠物服务</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#14001">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">丽人:美容</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#14002">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">丽人:美体</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#14003">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">丽人:美甲</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#14004">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">丽人:美发</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#15001">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">交通设施:桥</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#15002">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">交通设施:路侧停车位</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#15003">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">交通设施:长途汽车站</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#15004">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">交通设施:火车站</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#15005">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">交通设施:加油加气站</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#15006">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">交通设施:服务区</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#15007">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">交通设施:停车场</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#15008">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">交通设施:地铁站</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#15009">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">交通设施:飞机场</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#15010">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">交通设施:充电站</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#15011">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">交通设施:公交车站</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#15012">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">交通设施:港口</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#15013">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">交通设施:收费站</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#16001">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">铁路:地铁/轻轨</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#16002">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">铁路:铁路</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#17001">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">运动健身:健身中心</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#17002">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">运动健身:体育场馆</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#17003">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">运动健身:极限运动场所</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#18001">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">出入口:机场入口</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#18002">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">出入口:高速公路出口</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#18003">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">出入口:车站入口</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#18004">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">出入口:机场出口</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#18005">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">出入口:门</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#18006">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">出入口:车站出口</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#18007">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">出入口:停车场出入口</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#18008">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">出入口:高速公路入口</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#19001">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">道路:高速公路</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#19002">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">道路:路口</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#19003">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">道路:乡道</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#19004">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">道路:省道</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#19005">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">道路:国道</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#19006">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">道路:县道</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#19007">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">道路:城市快速路</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#20001">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">休闲娱乐:剧院</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#20002">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">休闲娱乐:歌舞厅</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#20003">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">休闲娱乐:电影院</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#20004">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">休闲娱乐:休闲广场</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#20005">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">休闲娱乐:洗浴按摩</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#20006">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">休闲娱乐:农家院</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#20007">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">休闲娱乐:游戏场所</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#20008">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">休闲娱乐:网吧</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#20009">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">休闲娱乐:ktv</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#2001">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">汽车服务:汽车租赁</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#20010">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">休闲娱乐:度假村</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#2002">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">汽车服务:汽车检测场</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#2003">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">汽车服务:汽车维修</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#2004">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">汽车服务:汽车销售</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#2005">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">汽车服务:汽车配件</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#2006">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">汽车服务:汽车美容</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#21001">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">政府机构:行政单位</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#21002">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">政府机构:政治教育机构</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#21003">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">政府机构:涉外机构</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#21004">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">政府机构:福利机构</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#21005">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">政府机构:各级政府</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#21006">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">政府机构:党派团体</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#21007">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">政府机构:公检法机构</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#22001">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">医疗:体检机构</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#22002">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">医疗:专科医院</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#22003">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">医疗:诊所</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#22004">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">医疗:急救中心</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#22005">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">医疗:药店</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#22006">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">医疗:疾控中心</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#22007">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">医疗:综合医院</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#22008">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">医疗:疗养院</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#23001">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">行政地标:商圈</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#23002">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">行政地标:乡镇</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#23003">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">行政地标:村庄</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#23004">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">行政地标:区县</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#3001">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">自然地物:山峰</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#3002">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">自然地物:水系</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#3003">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">自然地物:岛屿</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#4001">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">文化传媒:广播电视</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#4002">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">文化传媒:展览馆</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#4003">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">文化传媒:文化宫</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#4004">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">文化传媒:艺术团体</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#4005">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">文化传媒:美术馆</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#4006">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">文化传媒:新闻出版</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#5001">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">门址:门址点</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#6001">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">购物:家居建材</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#6002">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">购物:市场</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#6003">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">购物:百货商场</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#6004">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">购物:家电数码</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#6005">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">购物:购物中心</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#6006">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">购物:便利店</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#6007">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">购物:超市</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#6008">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">购物:商铺</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#6009">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">购物:集市</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#7001">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">房地产:住宅区</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#7002">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">房地产:写字楼</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#7003">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">房地产:宿舍</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#7004">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">房地产:内部楼栋</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#8001">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">公司企业:农林园艺</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#8002">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">公司企业:公司</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#8003">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">公司企业:园区</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#8004">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">公司企业:厂矿</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#9001">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">教育培训:科研机构</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#9002">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">教育培训:科技馆</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#9003">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">教育培训:留学中介机构</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#9004">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">教育培训:成人教育</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#9005">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">教育培训:幼儿园</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#9006">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">教育培训:培训机构</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#9007">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">教育培训:图书馆</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#9008">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">教育培训:中学</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#9009">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">教育培训:高等院校</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#9010">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">教育培训:特殊教育学校</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#9011">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">教育培训:小学</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://pkg.org/ont/source/baidumap/type#9012">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://pkg.org/ont/source/baidumap#Type"/>
+	<rdfs:label xml:lang="zh">教育培训:亲子教育</rdfs:label>
+</rdf:Description>
+
+</rdf:RDF>
